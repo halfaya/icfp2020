@@ -7,7 +7,7 @@ Opening: "Do you know the way to Jersey City?"
 1. Salsa (Boscan, Blades) [Agda]
 2. Broadway (Sondheim, Bacharach) [Haskell]
 3. NY Minimalism (Reich, Glass) [Racket]
-4. Modern (Carter, Sessions, Babbit) [OCaml/Coq]
+4. NY Modernism (Berio, Carter, Sessions, Babbitt) [OCaml/Coq]
 
 Fusion.
 
