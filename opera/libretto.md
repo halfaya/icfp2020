@@ -6,28 +6,30 @@
 * 4 wise women: Allie (S), Belle (A), Celle (A), Ellie (S)
 * mixed chorus
 
-## Overture
+## Libretto
 
-## Opening
+### Overture
 
-D: Do you know the way to Jersey City?
+### Opening
 
-A: It's next to New York. But New York no longer exists.
+*D*: Do you know the way to Jersey City?
 
-D: New York? Never heard of it.
+*A*: It's next to New York. But New York no longer exists.
 
-## Broadway (Sondheim, Bacharach) [Haskell] (UK)
+*D*: New York? Never heard of it.
 
-A: Everyone knows New York...
+### Broadway (Sondheim, Bacharach) [Haskell] (UK)
 
-## NY Modernism (Berio, Carter, Sessions, Babbitt) [OCaml/Coq] (France)
+*A*: Everyone knows New York...
 
-## NY Minimalism (Reich, Glass) [Racket] (US)
+### NY Modernism (Berio, Carter, Sessions, Babbitt) [OCaml/Coq] (France)
 
-## Salsa (Boscan, Blades) [Agda] (Sweden/Japan)
+### NY Minimalism (Reich, Glass) [Racket] (US)
 
-## Choral pre-coda?
+### Salsa (Boscan, Blades) [Agda] (Sweden/Japan)
 
-## Coda
+### Choral pre-coda?
 
-Chorus: This is not PLDI. This is ICFP.
+### Coda
+
+*Chorus*: This is not PLDI. This is ICFP.
