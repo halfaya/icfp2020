@@ -20,12 +20,13 @@
 
 ### Broadway (Sondheim, Bacharach) [Haskell] (UK)
 
-**A** Everyone knows New York,
-  You walk up Broadway to the West End,
-  Eat fish and chips while waiting at TKTS.
+**A** Everyone knows New York,\
+&nbsp;&nbsp;  You walk up Broadway to the West End,\
+&nbsp;&nbsp;  Eat fish and chips\
+&nbsp;&nbsp;  while waiting at TKTS.
 
 **D** My favorite cat is Hask.
-  That's [the] Kleisli [operator], right?
+  That's the Kleisli arrow, right?
 
 ### NY Modernism (Berio, Carter, Sessions, Babbitt) [OCaml/Coq] (France)
 
