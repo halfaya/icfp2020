@@ -31,7 +31,7 @@ My favorite cat is Hask.\
 That's the Kleisli arrow, right?\
 But what is New York?
 
-### NY Modernism (Berio, Carter, Sessions, Babbitt) [Coq] (Paris)
+### NY Modernism (Berio, Babbitt) [Coq] (Paris)
 
 **B**\
 Everyone knows New York,\
@@ -60,7 +60,7 @@ and the Seurat (note the reference to Sondheim\
 
 **D**\
 (I'd plan (synonym) to jump in a lilypond (extension)\
-and make a loud noise.)
+and make a loud noise.)\
 (What about Monade? (a portmantau))\
 But when do we arrive?
 
