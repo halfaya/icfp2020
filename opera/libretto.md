@@ -44,19 +44,24 @@ A tactical advantage.\
 I can already taste the coq au vin.\
 But where is New York?
 
-**D**\
-The large glass. [Sign of the Times by Brian Ferry.]
+**Chorus** [spoken]\
+Sign of the times. The large glass.\
+[Proceeding and during the first eight notes ("Here is a rainbow for your hair")
+of Sign of the Times by Brian Ferry.]
 
 ### NY Minimalism (Reich, Glass) [Racket] (Boston)
 
 **C**\
 Everyone knows New York,\
-The Metropolitan Museum of Fine Arts.
-(Impressionist works.)
+The Metropolitan Museum of Fine Arts.\
+(You'll especially enjoy the Renoir (Dance at Bougival)\
+and the Seurat (note the reference to Sondheim\
+(I think he went to school near there)).)
 
 **D**\
-(What about Monade?)\
-xxx\
+(I'd plan (synonym) to jump in a lilypond (extension)\
+and make a loud noise.)
+(What about Monade? (a portmantau))\
 But when do we arrive?
 
 **Chorus** (Counts matching parentheses.)
@@ -65,13 +70,13 @@ But when do we arrive?
 
 **E**\
 Everyone knows New York,\
-It's the biggest city in the world.\
+The biggest city in the world.\
 A metropolis without end.\
 You step out of the East Village Exit\
-and Kabukicho spreads out before you.\
+and Kabukicho spreads out before you.
 
 **D**\
-But surely the termination checker passes.\
+Surely the termination checker passes.\
 I understand the importance of space!\
 But why?
 
