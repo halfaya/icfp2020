@@ -54,8 +54,8 @@ of Sign of the Times by Brian Ferry.]
 **C**\
 Everyone knows New York,\
 The Metropolitan Museum of Fine Arts.\
-(You'll especially enjoy the Renoir (Dance at Bougival)\
-and the Seurat (note the reference to Sondheim\
+(You'll especially enjoy Renoir (Dance at Bougival)\
+and Seurat (note the reference to Sondheim\
 (I think he went to school near there)).)
 
 **D**\
