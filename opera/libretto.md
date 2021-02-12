@@ -61,7 +61,7 @@ and Seurat (note the reference to Sondheim\
 **D**\
 (I'd plan (synonym) to jump in a lilypond (extension)\
 and make a loud noise.)\
-(What about Monade? (a portmantau))\
+(What about Monade? (a portmanteau))\
 But when do we arrive?
 
 **Chorus** (Counts matching parentheses.)
