@@ -78,7 +78,7 @@ and Kabukicho spreads out before you.
 **D**\
 Surely the termination checker passes.\
 I understand the importance of space!\
-But why?
+Have we arrived?
 
 ### Choral pre-coda
 
