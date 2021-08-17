@@ -21,7 +21,7 @@
 ### Broadway (Sondheim, Bacharach) [Haskell] (London)
 
 **A**\
-Everyone knows New York,\
+Everybody knows New York,\
 You walk up Broadway to the West End,\
 Eat fish and chips\
 while waiting at TKTS.
@@ -34,7 +34,7 @@ But what is New York?
 ### NY Modernism (Berio, Babbitt) [Coq] (Paris)
 
 **B**\
-Everyone knows New York,\
+Everybody knows New York,\
 The food is unsurpassed.\
 From Elaine's to Café Constant,\
 You'll never experience better.
@@ -52,7 +52,7 @@ of Sign of the Times by Brian Ferry.]
 ### NY Minimalism (Reich, Glass) [Racket] (Boston)
 
 **C**\
-Everyone knows New York,\
+Everybody knows New York,\
 The Metropolitan Museum of Fine Arts.\
 (You'll especially enjoy Renoir (Dance at Bougival)\
 and Seurat (note the reference to Sondheim\
@@ -69,7 +69,7 @@ But when do we arrive?
 ### Salsa (Boscan, Blades) [Agda] (Tokyo)
 
 **E**\
-Everyone knows New York,\
+Everybody knows New York,\
 The biggest city in the world.\
 A metropolis without end.\
 You step out of the East Village Exit\
@@ -82,9 +82,12 @@ But why?
 
 ### Choral pre-coda
 
-**Chorus**\
-TBD
+**ABCE + Chorus SA**\
+Welcome to Jersey City, the entire world.
+
+**D + Chorus TB**\
+Welcome to New York City, the greatest city.
 
 ### Coda
 
-**Chorus** This is not PLDI. This is ICFP.
+**Chorus + ABCDE ** This is not PLDI. This is ICFP.
