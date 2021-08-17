@@ -90,4 +90,4 @@ Welcome to New York City, the greatest city.
 
 ### Coda
 
-**Chorus + ABCDE ** This is not PLDI. This is ICFP.
+**Chorus + ABCDE** This is not PLDI. This is ICFP.
