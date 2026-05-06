@@ -31,7 +31,7 @@ My favorite cat is Hask.\
 That's the Kleisli arrow, right?\
 But what is New York?
 
-### NY Modernism (Berio, Babbitt) [Coq] (Paris)
+### NY Modernism (Schoenberg, Berio) [Coq] (Paris)
 
 **B**\
 Everybody knows New York,\
